@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Lato", sans-serif;
+  font-size: 20pt;
+  font-weight: normal;
+  background: linear-gradient(-90deg, pink, #FFA798); /* Standard syntax */
+}
+
+.main {
+  margin: 50px auto;
+  text-align: center;
+  border: 5px dotted black;
+  border-radius: 500px;
+}
+
+h3 {
+  
+  position: relative;
+  top: -200px
+}
+h5 {
+  position: relative;
+  top: -200px
+}
+
+button {
+  padding: 20px;
+  background: transparent;
+  text-shadow: 2px 2px 2px #202020;
+  font-family: "Lato", sans-serif;
+  font-size: 20pt;
+  border: 5px solid black;
+  border-radius: 10px;
+  color: black;
+  position: relative;
+  top: -200px;
+}
+
+#grufolo1 {
+  margin-top: 30px;
+  height: 200px;
+  width: 200px;
+  position: relative;
+  right: 300px;
+  
+}
+
+#grufolo2 {
+  margin-top: 30px;
+  height: 200px;
+  width: 200px;
+  position: relative;
+  right: -300px;
+  
+}
+
+#didascalia {
+  position: relative;
+  right: 470px;
+  top: -100px
+}
